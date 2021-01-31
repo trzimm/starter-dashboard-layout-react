@@ -10,13 +10,13 @@ class Table extends Component {
           <div className="flex-shrink-0 w-10 h-10">
             <img
               className="w-10 h-10 rounded-full"
-              src="https://avatars0.githubusercontent.com/u/57622665?s=460&u=8f581f4c4acd4c18c33a87b3e6476112325e8b38&v=4"
+              src="https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png"
               alt=""
             />
           </div>
           <div className="ml-4">
-            <div className="text-sm font-medium text-gray-900">Ahmed Kamel</div>
-            <div className="text-sm text-gray-500">ahmed.kamel@example.com</div>
+            <div className="text-sm font-medium text-gray-900">First Last</div>
+            <div className="text-sm text-gray-500">first.last@example.com</div>
           </div>
         </div>
       </td>

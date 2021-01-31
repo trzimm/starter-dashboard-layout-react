@@ -11,8 +11,8 @@ class ProfileMenu extends Component {
         >
           <img
             className="object-cover w-8 h-8 rounded-full"
-            src="https://avatars0.githubusercontent.com/u/57622665?s=460&u=8f581f4c4acd4c18c33a87b3e6476112325e8b38&v=4"
-            alt="Ahmed Kamel"
+            src="https://user-images.githubusercontent.com/334891/29999089-2837c968-9009-11e7-92c1-6a7540a594d5.png"
+            alt="First Last"
           />
         </button>
 
@@ -28,8 +28,8 @@ class ProfileMenu extends Component {
               "absolute mt-3 transform -translate-x-full bg-white rounded-md shadow-lg min-w-max z-10 hidden"}
         >
           <div className="flex flex-col p-4 space-y-1 font-medium border-b">
-            <span className="text-gray-800">Ahmed Kamel</span>
-            <span className="text-sm text-gray-400">ahmed.kamel@example.com</span>
+            <span className="text-gray-800">First Last</span>
+            <span className="text-sm text-gray-400">first.last@example.com</span>
           </div>
           <ul className="flex flex-col p-2 my-2 space-y-1">
             <li>
