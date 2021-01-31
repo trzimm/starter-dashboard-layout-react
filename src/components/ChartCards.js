@@ -4,7 +4,7 @@ function ChartCards() {
         <div className="grid grid-cols-1 gap-6 mt-6 md:grid-cols-2 lg:grid-cols-4">
 
         {/* Users chart card */}
-        <a href="/" className="p-4 transition-shadow border rounded-lg shadow-sm hover:shadow-lg">
+        <a href="/" className="p-4 transition-shadow border rounded-lg shadow-sm hover:shadow-lg bg-white">
           <div className="flex items-start">
             <div className="flex flex-col flex-shrink-0 space-y-2">
               <span className="text-gray-400">Total Users</span>
@@ -22,7 +22,7 @@ function ChartCards() {
         </a>
 
         {/* Sessions chart card */}
-        <a href="/" className="p-4 transition-shadow border rounded-lg shadow-sm hover:shadow-lg">
+        <a href="/" className="p-4 transition-shadow border rounded-lg shadow-sm hover:shadow-lg bg-white">
           <div className="flex items-start">
             <div className="flex flex-col flex-shrink-0 space-y-2">
               <span className="text-gray-400">Sessions</span>
@@ -40,7 +40,7 @@ function ChartCards() {
         </a>
 
         {/* Vists chart card */}
-        <a href="/" className="p-4 transition-shadow border rounded-lg shadow-sm hover:shadow-lg">
+        <a href="/" className="p-4 transition-shadow border rounded-lg shadow-sm hover:shadow-lg bg-white">
           <div className="flex items-start">
             <div className="flex flex-col flex-shrink-0 space-y-2">
               <span className="text-gray-400">Vists</span>
@@ -58,7 +58,7 @@ function ChartCards() {
         </a>
 
         {/* Articles chart card */}
-        <a href="/" className="p-4 transition-shadow border rounded-lg shadow-sm hover:shadow-lg">
+        <a href="/" className="p-4 transition-shadow border rounded-lg shadow-sm hover:shadow-lg bg-white">
           <div className="flex items-start">
             <div className="flex flex-col flex-shrink-0 space-y-2">
               <span className="text-gray-400">Articles</span>

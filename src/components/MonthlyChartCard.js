@@ -1,6 +1,6 @@
 function MonthlyChartCard () {
     return (
-        <div className="border rounded-lg shadow-sm xl:col-span-3">
+        <div className="border rounded-lg shadow-sm xl:col-span-3 bg-white">
           { /* Card header */ }
           <div className="flex items-center justify-between px-4 py-2 border-b">
             <h5 className="font-semibold">Monthly Expenses</h5>

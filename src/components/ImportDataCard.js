@@ -1,7 +1,7 @@
 function ImportDataCard() {
     return (
         // Import data card 
-        <div className="border rounded-lg shadow-sm">
+        <div className="border rounded-lg shadow-sm bg-white">
           { /*  Card header */ }
           <div className="flex items-center justify-between px-4 py-2 border-b">
             <h5 className="font-semibold">Import Data</h5>

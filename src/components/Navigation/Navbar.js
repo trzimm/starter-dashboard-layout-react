@@ -11,7 +11,7 @@ class Navbar extends Component {
   render() {
      return (
       <header className="flex-shrink-0 border-b">
-        <div className="flex items-center justify-between p-2">
+        <div className="flex items-center justify-between p-2 bg-white">
           { /* Navbar left */ }
           <div className="flex items-center space-x-3">
             <span className="p-2 text-xl font-semibold tracking-wider uppercase lg:hidden">K-WD</span>

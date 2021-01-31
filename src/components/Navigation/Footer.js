@@ -1,7 +1,7 @@
 function Footer () {
     return (
         <div>
-            <footer className="flex items-center justify-between flex-shrink-0 p-4 border-t max-h-14">
+            <footer className="flex items-center justify-between flex-shrink-0 p-4 border-t max-h-14 bg-white">
                 <div>Company Name &copy; 2021</div>
                 <div className="text-sm">
                 Made by

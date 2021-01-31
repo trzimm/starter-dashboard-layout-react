@@ -52,7 +52,7 @@ class App extends Component {
 
   render() {
     return (
-      <div className="flex h-screen overflow-y-hidden bg-white" >
+      <div className="flex h-screen overflow-y-hidden bg-gray-100" >
         <Sidebar toggleSidbarMenu={this.toggleSidbarMenu} isSidebarOpen={this.state.isSidebarOpen} />
         
         <div className="flex flex-col flex-1 h-full overflow-hidden">
