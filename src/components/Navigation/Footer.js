@@ -8,7 +8,7 @@ function Footer () {
                 <span>&nbsp;</span>
                 <a
                     className="text-blue-400 underline"
-                    href="https://github.com/Kamona-WD"
+                    href="https://github.com/trzimm/starter-dashboard-layout-react"
                     target="_blank"
                     rel="noopener noreferrer"
                     >Your Name</a
@@ -17,7 +17,7 @@ function Footer () {
                 <div>
                 { /* Github svg */ }
                 <a
-                    href="https://github.com/Kamona-WD/starter-dashboard-layout"
+                    href="https://github.com/trzimm/starter-dashboard-layout-react"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center space-x-1"
