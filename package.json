@@ -1,6 +1,6 @@
 {
   "homepage": "http://trzimm.github.io/starter-dashboard-layout-react",
-  "name": "tailwinddemo",
+  "name": "starter-dashboard-layout-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +12,7 @@
     "autoprefixer": "^9.8.6",
     "postcss": "^7.0.35",
     "react": "^17.0.1",
+    "react-device-detect": "^1.15.0",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",

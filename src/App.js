@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import {isMobile} from 'react-device-detect';
 
 import Sidebar from './components/Navigation/Sidebar';
 import Navbar from './components/Navigation/Navbar';
@@ -14,7 +15,7 @@ class App extends Component {
     super(props);
 
     this.state = {
-      isSidebarOpen: true,
+      isSidebarOpen: ! isMobile,
       isSearchBoxOpen: false,
       isNotificationsOpen: false,
       isServicesOpen: false,
