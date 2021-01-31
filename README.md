@@ -5,7 +5,7 @@ Starter responsive dashboard layout built with tailwindcss and React.
 [![GitHub license](https://img.shields.io/github/license/trzimm/starter-dashboard-layout-react)](https://github.com/trzimm/starter-dashboard-layout-react/blob/main/License.md)
 [![GitHub stars](https://img.shields.io/github/stars/trzimm/starter-dashboard-layout-react)](https://github.com/trzimm/starter-dashboard-layout-react/stargazers)
 
-## [See live demo](https://kamona-wd.github.io/starter-dashboard-layout/)
+## [See live demo](https://trzimm.github.io/starter-dashboard-layout-react/)
 
 To get started:
 
@@ -37,10 +37,19 @@ To get started:
 
 To build an optimized version of your CSS, simply run:
 
-```bash
-# Using npm
-npm run build
-```
+1. Create the build:
+
+   ```bash
+   # Using npm
+   npm run build
+   ```
+
+2. Deploy to github pages:
+
+   ```bash
+   # Using npm
+   npm run deploy
+   ```
 
 ## References
 
